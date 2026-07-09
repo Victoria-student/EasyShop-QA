@@ -1,23 +1,8 @@
-OS:
-Windows 11 Pro
-
-Browser:
-Google Chrome
-
-Database:
-PostgreSQL
-
-Hosting:
-REG.RU
-
-FTP:
-FileZilla
-
-IDE:
-Visual Studio Code
-
-DB Client:
-DBeaver
-
-Version Control:
-GitHub
+| Компонент | Значение                |
+| --------- | ----------------------- |
+| ОС        | Windows 11              |
+| Браузер   | Google Chrome           |
+| Сервер    | REG.RU Hosting          |
+| FTP       | FileZilla               |
+| IDE       | Visual Studio Code      |
+| Frontend  | HTML / CSS / JavaScript |
